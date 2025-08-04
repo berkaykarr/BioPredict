@@ -5,7 +5,7 @@ BioPredict is a web-based machine learning application that predicts the likelih
 ⚠️ This tool is developed for educational and demonstrational purposes only. The predictions do not replace professional medical advice. Always consult a healthcare provider for clinical evaluation and diagnosis.
 ## 🎥 Demo Video
 
-[![Watch the Demo](https://img.youtube.com/vi/qewoPROoLhc/0.jpg)](https://youtu.be/qewoPROoLhc)
+[![Watch the Demo](https://img.youtube.com/vi/xptdPps9wvY/0.jpg)](https://youtu.be/xptdPps9wvY)
 
 Click the image above to watch a walkthrough of the BioPredict app.
 
