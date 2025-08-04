@@ -79,4 +79,5 @@ if os.path.exists(selected_path):
         code = f.read()
     exec(code)
 else:
-    st.error(f"❌ '{selected_file}' dosyası bulunamadı!")
+    st.error(f"❌ '{selected_file}' file has not found!")
+
